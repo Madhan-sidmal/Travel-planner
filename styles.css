@@ -194,14 +194,6 @@ li img:hover {
     opacity: 0.8;
 }
 
-/* Footer Section */
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #333;
-    color: white;
-    font-size: 1rem;
-}
 
 /* Map Container */
 #map {
